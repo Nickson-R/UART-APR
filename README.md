@@ -289,10 +289,12 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 •	The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 •	Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist. Step 2 : Creating an SDC File Step 3 : Performing Synthesis
+<img width="1919" height="1079" alt="Screenshot 2025-11-21 181534" src="https://github.com/user-attachments/assets/d034eeec-81a1-46e9-a331-5f92e6bf7ced" />
 
 ### Fig 1: RTL Simulation:
 
-<img width="1919" height="1079" alt="Screenshot 2025-11-21 181534" src="https://github.com/user-attachments/assets/d034eeec-81a1-46e9-a331-5f92e6bf7ced" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-11-21 195141" src="https://github.com/user-attachments/assets/f7d31289-6c24-4a50-95b5-7163085ee83f" />
 
 
 ### Fig 2: Synthesis RTL Schematic:
